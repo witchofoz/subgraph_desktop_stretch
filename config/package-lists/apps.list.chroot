@@ -97,4 +97,6 @@ pastebinit
 electrum
 python-qt4
 python-trezor
-
+chromium
+chromium-l10n
+auditd
